@@ -1,0 +1,16 @@
+git signup login
+new repository creation and new file
+
+git download
+in cmd,
+git config --global user.name ""
+git config --global user.email ""
+
+in vscode,
+git clone "repo path"
+cd "new folder from git"
+git status
+git add "filename"
+git commit -m "message"
+git push origin main
+insert->add->commit->push
