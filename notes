@@ -44,3 +44,6 @@ git branch branch2
 git push origin branch2
 # pull request
 # request for merge with main to manager -> done in git website
+
+# merge conflict
+main -> city:none branch1 -> city:Coimbatore branch2 -> city:Chennai
