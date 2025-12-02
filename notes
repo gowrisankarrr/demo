@@ -39,4 +39,8 @@ git checkout main
 git diff branch1
 git merge branch1
 git push origin main
+# new branch
+git branch branch2
+git push origin branch2
 # pull request
+# request for merge with main to manager -> done in git website
