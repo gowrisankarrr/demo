@@ -14,3 +14,29 @@ git add "filename"
 git commit -m "message"
 git push origin main
 insert->add->commit->push
+
+if modified then add->commit->push
+if deleted then add->commit->push
+
+if modified in git then -> git pull
+
+if folder created in vscode then -> git init -> git add . -> git commit -m ""
+# for adding multiple files at a time -> git add .
+create same repo in github and do following
+# git branch -> master
+git branch -M main
+git remote add origin "path"
+git push origin main
+
+# git branches
+creat a branch in github then -> git pull
+git branch -a
+# switching new branch "branch1"
+git checkout branch1
+git push origin branch1
+# merging branches
+git checkout main
+git diff branch1
+git merge branch1
+git push origin main
+# pull request
