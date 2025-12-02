@@ -47,3 +47,5 @@ git push origin branch2
 
 # merge conflict
 main -> city:none branch1 -> city:Coimbatore branch2 -> city:Chennai
+
+git pull origin main
